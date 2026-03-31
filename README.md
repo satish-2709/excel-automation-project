@@ -1,3 +1,6 @@
+## 🚀 Project Demo
+This project reads sales data and generates an automated report with percentage calculations.
+
 # Excel Automation Project
 
 ## 📌 Overview
