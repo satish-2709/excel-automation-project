@@ -27,3 +27,5 @@ This project automates Excel data processing using Python.
 ## 📂 Output
 Generates a new Excel file with calculated percentage values.# excel-automation-project
 Python script to automate Excel data processing and report generation
+
+## 📊 Output Screenshot
